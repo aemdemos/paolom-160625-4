@@ -1,0 +1,3049 @@
+{
+  "originUrl": "https://www.nationwide.co.uk",
+  "lastCrawled": "https://www.nationwide.co.uk/",
+  "urls": [
+    {
+      "url": "https://www.nationwide.co.uk/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "97002b4ede7b79107af5678e9e21e4edee4f33c5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us",
+      "id": "cec381361e708d80e76206de40fb8353e0503b45"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/a-good-way-to-bank",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/a-good-way-to-bank",
+      "id": "b972fcd5141a0d5d3417389fff993d5eeae13f70"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/a-good-way-to-bank/whats-changing",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/a-good-way-to-bank/whats-changing",
+      "id": "6d3c29a9b092df3712191d821d4fb6fa1a63ecd0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/branch-promise",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/branch-promise",
+      "id": "2eef6bb9829b980e03645242f5b812b0446766ad"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/cookies-privacy",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/cookies-privacy",
+      "id": "f934192e61a4d70d1e539c41a526b1f356b00eaa"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/cookies-privacy/cookies",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/cookies-privacy/cookies",
+      "id": "47fe9f8fe8c5a24e720ab79d8bf4fe05c8162429"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/cookies-privacy/how-we-use-your-information",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/cookies-privacy/how-we-use-your-information",
+      "id": "df3ed9dbaa110d93dfe75f0683f444577a0e744b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/cookies-privacy/your-information-rights",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/cookies-privacy/your-information-rights",
+      "id": "c6f5d0c841ffca2605328049234ab9b0d765de9c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/fairer-share",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/fairer-share",
+      "id": "de1ec39697032e2ec715c4b36cc28cf5d8307146"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/fairer-share/terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/fairer-share/terms-and-conditions",
+      "id": "d03fd749550af5f59e29496170600d0de907d8f2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society",
+      "id": "83c729167ac30e85978b12202472b0310c7be438"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/fairer-futures-charity-partners",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/fairer-futures-charity-partners",
+      "id": "6637114383e64a9f93ded98e7ddc872bdc1c79bc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/fairer-futures-charity-partners/action-for-children",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/fairer-futures-charity-partners/action-for-children",
+      "id": "dffd90d6debe476e4e5d9417d9b315674d400b24"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/fairer-futures-charity-partners/centrepoint",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/fairer-futures-charity-partners/centrepoint",
+      "id": "321d2c0d6bc18687c084321cb68de3b8a462c747"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/fairer-futures-charity-partners/dementia-uk",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/fairer-futures-charity-partners/dementia-uk",
+      "id": "989febf280f1df1b49e8e635e90d13d53e0882b3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/fairer-futures-charity-partners/the-royal-marsden-cancer-charity",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/fairer-futures-charity-partners/the-royal-marsden-cancer-charity",
+      "id": "4a463f8151df2c5f35f2f3c56eeb8328764157c7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/money-lessons",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/money-lessons",
+      "id": "689be622b6cb32fc2ea20556523c65e064c803ef"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/oakfield",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/oakfield",
+      "id": "2e751f370b077819c921d366bd5d09bf2167b6ba"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/for-the-good-of-society/the-nationwide-foundation",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/for-the-good-of-society/the-nationwide-foundation",
+      "id": "32a7a1bdc1f12f48dea66959d0196f2b86798645"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results",
+      "id": "e90338424bd6d766f45b7cdb0c7c954d6bc5aff6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/agm-results",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/agm-results",
+      "id": "d8b3d3349dea2dfdbb1b75aa4db54d017495ffeb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/board-and-executive-committee",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/board-and-executive-committee",
+      "id": "f92fdb4b845c2bae44f3405e45bca13eebd60d19"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/fscs",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/fscs",
+      "id": "e40c2582b67f62a2be148b38a7882254faf03051"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/responsible-lending",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/responsible-lending",
+      "id": "96e3dc677553be2ca7193f80ec753945f0ad82b5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/results-and-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/results-and-accounts",
+      "id": "5a66f1fa3a06dcac1be6b91a57256e9a5594f3f8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/slavery-human-trafficking-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/slavery-human-trafficking-statement",
+      "id": "245098ebef34627d824e48354a4ba17219309c3d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/subsidiary-company-statements",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/subsidiary-company-statements",
+      "id": "a5ac0ea3a4f32e016838fb4dc9c74a2e8936f545"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/governance-reports-and-results/taxation-strategy",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/governance-reports-and-results/taxation-strategy",
+      "id": "5a63358a37b438dfd2b23d1e2f57a328c65ff8f2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/greener-homes",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/greener-homes",
+      "id": "8e3a22a60f7ba63d539ff9fecb7f5439f1e034e3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/greener-homes/home-energy-efficiency-tool",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/greener-homes/home-energy-efficiency-tool",
+      "id": "0b0315f7f0cee228657bb96123690d93d9916840"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say",
+      "id": "1c28a75f41b9efcd27e7c0b4811b93156f8ed72d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say/member-voice",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say/member-voice",
+      "id": "a3b429f125447d01fb62b22de7ad4025751f6c86"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say/our-agm",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say/our-agm",
+      "id": "f5c7f54f23ac45f31a0d45a2b8e03889bf2e3957"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say/social-media",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say/social-media",
+      "id": "eca86343bf5ee319ac9cfe88b0bd5a5b5c5058b3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say/social-media/facebook-terms",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say/social-media/facebook-terms",
+      "id": "2a467e58496c129ff60d1e9c10125667ce475dbb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/have-your-say/social-media/x-terms",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/have-your-say/social-media/x-terms",
+      "id": "9e897ac1ea61194244f4e9a7f905ef7acf147078"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/inclusion-and-diversity",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/inclusion-and-diversity",
+      "id": "1bea9d1c0b8587e26a1cb588561b6c4d6aaeacac"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/inclusion-and-diversity/inclusion-and-diversity-mission",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/inclusion-and-diversity/inclusion-and-diversity-mission",
+      "id": "a5c5918bbcffd71eb265d3bf179146316e8b0d6c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/inclusion-and-diversity/pay-gaps",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/inclusion-and-diversity/pay-gaps",
+      "id": "b694dbac0555f9e35feaf695e26bb9f635990af3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/inclusion-and-diversity/women-in-finance",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/inclusion-and-diversity/women-in-finance",
+      "id": "ae7e6727562f53223cdd2b43796486a1f89f7c88"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers",
+      "id": "15f5ec8073c0048009c80e0ee6cb06a1e723e623"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/cot-and-release-of-funds",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/cot-and-release-of-funds",
+      "id": "204c55cb37a1a1fb3b50950893b293d36498e680"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/deceased-customers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/deceased-customers",
+      "id": "f4bb8a92ea9ce51466819c6fa8b5b31b9eaac198"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/electronic-discharges",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/electronic-discharges",
+      "id": "dd2188ca945f24d0111fddb9c4c990eeb01f5784"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/electronic-titles",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/electronic-titles",
+      "id": "34bb12bb1746cbbebda8a2d668e52600165b51ed"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/forms-and-downloads-for-lawyers",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/forms-and-downloads-for-lawyers",
+      "id": "4b604688100b34df542d1c2ce99c2c497c9a04a3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/information-for-lawyers/overview",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/information-for-lawyers/overview",
+      "id": "5f1001be0eb60658f4b86e33daafd910d5ba4e57"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/our-history",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/our-history",
+      "id": "cc874ed21d3a3b54f3cd125e9eea1f080ddd172e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/policy-and-public-affairs",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/policy-and-public-affairs",
+      "id": "3b1b8fd80fb2612edd9a3a22ae1e331df87d7cdb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business",
+      "id": "33c1f9dfa9bcac0527e8983e4a582026ef125111"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/our-people",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/our-people",
+      "id": "891fa3c246e4e0b1479c98b34f43d9e50d38fd1d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements",
+      "id": "9b73dcabe19f0f7c116321700c514419360785e1"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/biodiversity-standard",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/biodiversity-standard",
+      "id": "38fb96191550e1a81e18746640a7e25259f53f98"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/data-privacy-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/data-privacy-policy-statement",
+      "id": "87a6c916e391c3aadfddcc1f0ad10065a7245c9d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/discrimination-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/discrimination-policy-statement",
+      "id": "a167ee80297264a80c81a23bfdc87861261b4adf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/economic-crime-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/economic-crime-policy-statement",
+      "id": "017593ba5d5f02378ddff26589261d4cfcc18373"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/environmental-standard",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/environmental-standard",
+      "id": "6588f2840941b523be4a722b0184a2f91e4bc593"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/freedom-of-association-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/freedom-of-association-policy-statement",
+      "id": "166dfa5b3786d4ba45845cf78500ecb66b2dfd2b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/health-and-safety-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/health-and-safety-policy-statement",
+      "id": "108fff0a3c8c8b8fe85f84969654f10386fd6788"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/human-rights-standard",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/human-rights-standard",
+      "id": "6a477ccb96441b580507cda6fa9458326ac5d19f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/labour-rights-standard",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/labour-rights-standard",
+      "id": "b6ac5db96270f30c0e5998f87ae6cbb5b9e16368"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/political-involvement-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/political-involvement-statement",
+      "id": "fbc036099e8ef35889da1f16e2a86627fb55fed7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/responsible-investment-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/responsible-investment-statement",
+      "id": "133a222a8be9780fdf11a9e4c71583be0302a4d0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/responsible-investment-statement/esg-investment-approach",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/responsible-investment-statement/esg-investment-approach",
+      "id": "62d7f6896a59c2e2d4f9264b8176286525e64f9e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/responsible-marketing-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/responsible-marketing-policy-statement",
+      "id": "6b2d96f7c71f3d4d9a825fd56914296a6223e81b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/responsible-products-and-services-policy-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/responsible-products-and-services-policy-statement",
+      "id": "7ae648d9891fbc0e77668b659ae9477337b6b737"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/policies-and-statements/speaking-up-and-whistleblowing",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/policies-and-statements/speaking-up-and-whistleblowing",
+      "id": "cdb2f005d7537835318d20da5754241951ce6d9b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/responsible-business/reducing-our-environmental-impact",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/responsible-business/reducing-our-environmental-impact",
+      "id": "77be7c8de36eccad5b6cfe0a7675eba331e2fa0f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/the-big-nationwide-thank-you",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/the-big-nationwide-thank-you",
+      "id": "d0cc11c3a0b1e723114f64435db6ad13e5bd5c3d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/the-big-nationwide-thank-you/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/the-big-nationwide-thank-you/terms",
+      "id": "36584f981c57cfb0420ebbfb2f630e6679d2b23a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/what-membership-means",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/what-membership-means",
+      "id": "382a4b6b5566f1578fca28c5eaf019297b21c7f2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/about-us/why-bank-with-us",
+      "source": "SITEMAPS",
+      "targetPath": "/about-us/why-bank-with-us",
+      "id": "2d8d8ea18094842c47643c02fa942256b02ebb09"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/contact-us",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us",
+      "id": "c06f1f5b2eff6f54378ab62d83d8a9cacfd53ef4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/contact-us/how-arti-can-help-you",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us/how-arti-can-help-you",
+      "id": "d9d27a051ee575c42f14d94e182da5ab16a10cb3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/contact-us/make-a-complaint-or-send-us-feedback",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us/make-a-complaint-or-send-us-feedback",
+      "id": "29e4b296076f24070f44a523e569f3108190381a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/contact-us/make-a-complaint-or-send-us-feedback/complaints-data",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us/make-a-complaint-or-send-us-feedback/complaints-data",
+      "id": "cc28256b21ae6353b7f9533144068aa61f891c4b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards",
+      "id": "084975441268f4a38fe6c733841bece456132163"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/0-interest-credit-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/0-interest-credit-card",
+      "id": "12e538a595b77859d7af6ca86a0dc42a5e2a311b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/balance-transfer-credit-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/balance-transfer-credit-card",
+      "id": "912cbc3a93acdf5a637a86d4b9d7ff81ed3cd74b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/credit-card-rates-and-details",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/credit-card-rates-and-details",
+      "id": "abe818be505e333287e4bf173a52404a565fe49e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help",
+      "id": "2d4966a902552b172d7b7415add589e94410556d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/add-or-remove-card-holder",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/add-or-remove-card-holder",
+      "id": "f88d200ea3b75e6af944df8245cb42a10d65732a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/cancel-your-credit-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/cancel-your-credit-card",
+      "id": "fe60f9234ae4c3eeca38e0b6714e922281a789b6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/change-limit-on-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/change-limit-on-card",
+      "id": "8c9b622ff3a994e7a57bb308aaeae79a4286c5ab"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/check-card-balance",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/check-card-balance",
+      "id": "adab6cab05d3c42a19b59b586f840d599a168aeb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/fees-charges",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/fees-charges",
+      "id": "8cfe3c156ebe186dfc367d81bedd9a7827faf583"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/interest-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/interest-rates",
+      "id": "bafe9d096c4c63698a0e1c78c510624a9eb66977"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/minimum-payments",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/minimum-payments",
+      "id": "58dccf98aa3743de536481dffa1298de3c9b1704"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/pay-credit-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/pay-credit-card",
+      "id": "15038d8ef29a05462904efb9c3877bd9a675b29c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/persistent-debt",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/persistent-debt",
+      "id": "72b9483ecd5b03ed4cdefddc788eed4b7f6a7dbc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/section-75-claims",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/section-75-claims",
+      "id": "0ca11867f9ac0211adf1036105ba1f490bc9802c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms",
+      "id": "35e4be5f0b9f00192e1f751f4e8a86638adcdd34"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms/classic-credit-card-rates-and-details",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms/classic-credit-card-rates-and-details",
+      "id": "7134c071f327c3381425d23d4d4d01c954b39ff3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms/credit-card-declaration",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms/credit-card-declaration",
+      "id": "af8486402236a0d6608286efdd6839d0f86b7a25"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms/gold-credit-card-rates-and-details",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms/gold-credit-card-rates-and-details",
+      "id": "2b1b60e3c32cce0e2d0e3a841955e7a6a0da3cb3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms/nationwide-credit-card-rates-and-details",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms/nationwide-credit-card-rates-and-details",
+      "id": "2d52ffa67f3e7e371a3f8f855dbccbb7e00d1a5f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/terms/select-credit-card-rates-and-details",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/terms/select-credit-card-rates-and-details",
+      "id": "6ba15646ce4e3a1ae5d0846659e696f2a621bbd6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/transfer-balance",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/transfer-balance",
+      "id": "dab9e407b743e80e1cd2b20ee3a00b0b8ded7ba9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/help/using-your-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/help/using-your-card",
+      "id": "ca32f07eff177330d7d16ce2b60fc2d3493d6931"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/how-do-credit-cards-work",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/how-do-credit-cards-work",
+      "id": "6cd04195d8c3c78486277a3c7c82796807787d7c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/credit-cards/purchase-credit-card",
+      "source": "SITEMAPS",
+      "targetPath": "/credit-cards/purchase-credit-card",
+      "id": "901478acf8d45d38815e8884cacec31c9865652a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts",
+      "id": "6fe166acddc8cf4ff8dfc94c46c9662251766e9b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/compare",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/compare",
+      "id": "1205f26abe51223ebf4bfd5025d0df312287253d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexaccount",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexaccount",
+      "id": "a25494b8a5d0119867ba93c251c41cc254e1ce2c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexbasic",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexbasic",
+      "id": "e27718167d15133b3ccc1846c9f561206685b55c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexdirect",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexdirect",
+      "id": "d32f476c9727abcfe7e91c44588a77a085645445"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexone",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexone",
+      "id": "5dcbacadd3b17c3e8f70d8d6b42310cd29ff42b8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexone/flexone-maturity",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexone/flexone-maturity",
+      "id": "c40c4438aea3e1bbaa65a9a15c2667e32a5c1077"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexplus",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexplus",
+      "id": "83b6838bdadee9e48dc699baeb1661181f345dc9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexplus/breakdown-cover",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexplus/breakdown-cover",
+      "id": "7e9794c21247f92d1e071f330b58158781daf489"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexplus/mobile-phone",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexplus/mobile-phone",
+      "id": "d557150c271b6b703624600cefd862ef26396a22"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexstudent",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexstudent",
+      "id": "f74181258bbc287387cb2278685418e13cc0d6d5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexstudent/about-our-flexstudent-offer",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexstudent/about-our-flexstudent-offer",
+      "id": "e625a61301f060380400ebdf04df7981b2e43915"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexstudent/flexgraduate-maturity",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexstudent/flexgraduate-maturity",
+      "id": "13acc2950847942c2ca637fb4bf6228dd375b06b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexstudent/nationfried",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexstudent/nationfried",
+      "id": "36a0da0ae784d88687e824849e30afc020269ebd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexstudent/student-banking-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/flexstudent/student-banking-guide",
+      "id": "9ac35189a14f5343a7a56d416491fbe4b8d19565"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help",
+      "id": "e0117797f2065af1d6384d005b629eeac1987f9c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/access-historical-statements",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/access-historical-statements",
+      "id": "708d1036f8e723c41c0ec9436b8b8d4cb85409c9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/apply-for-or-change-your-overdraft",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/apply-for-or-change-your-overdraft",
+      "id": "320ba227e247454c54cfd6c72384151ca3a82539"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/change-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/change-current-account",
+      "id": "8138a9cf7689f7b59b026324beedddb8ed4190a7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/claim-flexplus-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/claim-flexplus-insurance",
+      "id": "f5b6113eb4f7a267ff0df010189754ef2629f99a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/close-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/close-current-account",
+      "id": "a7aa6d7820338947c4107125752abf50725a68c3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/current-account-statements",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/current-account-statements",
+      "id": "369e145fc3e8e1c490f64802f566db48e32280b6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/debit-cards",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/debit-cards",
+      "id": "19cc25d3756e8955c8c7917597939ccbabaf0fe5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/get-joint-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/get-joint-current-account",
+      "id": "cc49b0fedbf2368ac4d10720369e202eda3db201"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/how-to-open-a-bank-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/how-to-open-a-bank-account",
+      "id": "44c5e56fd429029c5124e492f1000c7744d6befe"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/managing-your-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/managing-your-current-account",
+      "id": "1b230e97682a514b28185cef3f31e6f8e5f9e6b9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/moving-current-account-abroad",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/moving-current-account-abroad",
+      "id": "2104d308fe98b6ef99131a9bcd721027cc24a83f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/pay-from-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/pay-from-current-account",
+      "id": "3d8c7d664b0077b56908e213de25a169dfcf6a35"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/pay-into-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/pay-into-current-account",
+      "id": "032e6aea9eb5d827660110ad49b41e4091316908"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/switch-nationwide-current-account",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/switch-nationwide-current-account",
+      "id": "9052a9f4feebcc25908070c96107463f45682356"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/terms",
+      "id": "6468b05351d237df5265560a4fe9d0c22e301b61"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/terms/current-account-declaration",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/terms/current-account-declaration",
+      "id": "52803a04ab0148112e7e29d7a2da6e7da5c8ebac"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/terms/flexaccount-charitable-assignment",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/terms/flexaccount-charitable-assignment",
+      "id": "1047765cb0c1378d47846199c30c8322374d9d91"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/help/text-alerts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/help/text-alerts",
+      "id": "a484b2209fe8f0a2bcb85d1e6bf4945c6f71adf8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/overdrafts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/overdrafts",
+      "id": "d198f7738b52adbdc5dfb80ae1980ab0ec478008"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/overdrafts/adult-account-arranged-overdrafts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/overdrafts/adult-account-arranged-overdrafts",
+      "id": "48a3ae2461f3d3641138ac5c525443f5b8fbd37c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/overdrafts/flexone-arranged-overdrafts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/overdrafts/flexone-arranged-overdrafts",
+      "id": "f1805504403ac493dd34d2bfd980bc62aef9780d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/overdrafts/overdraft-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/overdrafts/overdraft-calculator",
+      "id": "3557c7b14a1d4d60eeb6585c4a145abc91ef6316"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/overdrafts/student-arranged-overdrafts",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/overdrafts/student-arranged-overdrafts",
+      "id": "d911db004c52b36cda79360113198bcd292945d8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/app-unavailable",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/app-unavailable",
+      "id": "4d8d375e97081c54b62189a420aa541c695e0fe5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/flexdirect-pcci-0000007006",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/flexdirect-pcci-0000007006",
+      "id": "e4cbccbf4c4f89b23703b7d2a706c4998e436550"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/flexone-pcci-0000007007",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/flexone-pcci-0000007007",
+      "id": "e36101e5d29e74c2b0253fa44586c362d3e9750f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/flexplus-pcci-0000007005",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/flexplus-pcci-0000007005",
+      "id": "b6195ad5a9574c18ffd50ae31ddebe73ad8d4f8c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/service-quality",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/service-quality",
+      "id": "63526dcdfc60faba52b2e30a7fc2e9e80b89100d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/service-quality-results-gb",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/service-quality-results-gb",
+      "id": "8e1ae615c7e4b27a69baa82ba1b8333ee60761ca"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/resources/service-quality-results-ni",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/resources/service-quality-results-ni",
+      "id": "ce3d1a6ce0cf8dfa95790a8c63deef0399546744"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/switch",
+      "source": "SITEMAPS",
+      "targetPath": "/current-accounts/switch",
+      "id": "70c3e9ccb4d10f1368d8668a705a853acf6b21f9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help",
+      "source": "SITEMAPS",
+      "targetPath": "/help",
+      "id": "7ce23b1e63b2823e687fbeee9c63d7cc7bd96b9b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/accessibility",
+      "source": "SITEMAPS",
+      "targetPath": "/help/accessibility",
+      "id": "5920a7c21cb42f2b6caeb53f34991373b8d1ac6d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/accessibility/accessibility-tools",
+      "source": "SITEMAPS",
+      "targetPath": "/help/accessibility/accessibility-tools",
+      "id": "ee440ebddc40cb2829d0fbcdcbba7228d551badb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/accessibility/branch-accessibility",
+      "source": "SITEMAPS",
+      "targetPath": "/help/accessibility/branch-accessibility",
+      "id": "75b21c04f22bf423acd2a68af7c17544a1b1d3f6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/accessibility/easy-read",
+      "source": "SITEMAPS",
+      "targetPath": "/help/accessibility/easy-read",
+      "id": "c48742c632262f4a150c50ec7e6327b159072f06"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/accessibility/online-accessibility",
+      "source": "SITEMAPS",
+      "targetPath": "/help/accessibility/online-accessibility",
+      "id": "10be23328c5f06957a55b89555af243e6e2f16d6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help",
+      "id": "0fd39f5a736d50b37f11440e1ab92ba31638ea15"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help/cash-withdrawals",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help/cash-withdrawals",
+      "id": "9610b41b3b5cb1513f2ad4ccbcc581db0cdfa9d5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help/close-an-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help/close-an-account",
+      "id": "2bd2eb95e593b66fda95294f4411a94e3d226b04"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help/close-your-account-when-living-abroad",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help/close-your-account-when-living-abroad",
+      "id": "139f98c8f7e02a59384b4f8a0ea115bcd1841773"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help/find-a-lost-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help/find-a-lost-account",
+      "id": "c132e30f0ad4e11f8b6d842453262ed7e0ecfd41"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/banking-help/your-mini-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/help/banking-help/your-mini-statement",
+      "id": "02f489b53d0416a07fe9d8d3512c57a0d0242f86"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times",
+      "id": "beac1adebfe094b451fb754d18c48829865f6f87"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/bereavement",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/bereavement",
+      "id": "ef00c499cf63137c31c29ba31f188032316f4f40"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/bereavement/emotional-and-financial-support",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/bereavement/emotional-and-financial-support",
+      "id": "30643487ebef530d8b71977538834e1a62b36ae0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/bereavement/releasing-money-and-closing-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/bereavement/releasing-money-and-closing-accounts",
+      "id": "e95ec19d22a728a88013132d7696cf24c6149696"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/bereavement/tell-us",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/bereavement/tell-us",
+      "id": "5e47228bfd850919c312ac649fe6af4f452532b4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/bereavement/what-happens-to-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/bereavement/what-happens-to-accounts",
+      "id": "4c9735552a3e1028674d565ae6a012ffc31fb98d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/domestic-financial-and-economic-abuse",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/domestic-financial-and-economic-abuse",
+      "id": "9c4e8bded4e9644ff99fbab3eb73620b72b7f956"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/domestic-financial-and-economic-abuse/call-back",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/domestic-financial-and-economic-abuse/call-back",
+      "id": "f07b86ce6e41f41968f346430e8b08a980df4f0e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/gambling-support",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/gambling-support",
+      "id": "b628dd74917e69b0089316dbd3523acca26985cd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/get-back-on-track",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/get-back-on-track",
+      "id": "77acc861f4e8a2b0048f897b8a4a7128c0f4f23c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/illness-and-unexpected-change",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/illness-and-unexpected-change",
+      "id": "c4f49a850b91901bb372f5fc539479b57ca5c525"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/money-worries",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/money-worries",
+      "id": "1d6389a09828512a2cccdc087a039f7ecbc50c0d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/challenging-times/money-worries/debt-support-organisations",
+      "source": "SITEMAPS",
+      "targetPath": "/help/challenging-times/money-worries/debt-support-organisations",
+      "id": "76f914a828aa599c991ec4f8e01e7dbe87b933aa"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/charitable-assignment",
+      "source": "SITEMAPS",
+      "targetPath": "/help/charitable-assignment",
+      "id": "e34005a08f8e482433aeea6601190e637fb43ef9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/credit-scoring-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/help/credit-scoring-guide",
+      "id": "2d6f594d69250f0223b15dc95634a299c5da7315"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security",
+      "id": "fa9a297b2319525d8ab319dd4a198349caa7bef7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/antivirus",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/antivirus",
+      "id": "38f138d7651c1d836c36ccbcfe374f09adb5d2c2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/card-fraud",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/card-fraud",
+      "id": "ff11824eb68b350f7a1a89da75a22335089a62e2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/crypto-payment-restrictions",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/crypto-payment-restrictions",
+      "id": "2fbff22f5d51c8382e70d7c6778dcc92f05f9c18"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/digital-banking-promise",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/digital-banking-promise",
+      "id": "ec159be32e7f348c8f7a4d97fefcb1ade07025a3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/fraud-alert-messages",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/fraud-alert-messages",
+      "id": "c2c377e65ff5be77543505a698af792623c72944"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/identity-fraud",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/identity-fraud",
+      "id": "1272d1e9396695d1ac137746d1e84bcdb0dd67c0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/online-banking-fraud",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/online-banking-fraud",
+      "id": "acc16ea56ff6a8fe5c298e010e673beb122280c6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/online-shopping-security-checks",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/online-shopping-security-checks",
+      "id": "d8c47047feb05f744fd39f91a08fdfa1d1462281"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/online-shopping-security-checks/visa-secure-privacy-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/online-shopping-security-checks/visa-secure-privacy-policy",
+      "id": "4788b34cdec5ac8f9139e1bd8595f051fc7d4f23"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/online-shopping-security-checks/visa-secure-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/online-shopping-security-checks/visa-secure-terms-and-conditions",
+      "id": "7cc87cbd2d15b2d739ba4052def47f9469cf7ba4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/payment-systems-regulator-app-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/payment-systems-regulator-app-scams",
+      "id": "925027773aff51655454cb57572a688a05c377d5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/report-security-vulnerability",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/report-security-vulnerability",
+      "id": "f6ba905831ec57d2ccc7a769ca1f7698d86b365d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/reporting-fraud-or-a-scam",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/reporting-fraud-or-a-scam",
+      "id": "17cd32daa44ea50f8b013f4f7c65c44babd3986c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/scam-protection-promise",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/scam-protection-promise",
+      "id": "8749cfef7091e3a22f7fbca30c1e7e449790e608"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/scam-protection-promise/scam-promise-terms",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/scam-protection-promise/scam-promise-terms",
+      "id": "a99da9511736078765507141737175f031981ff3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/fraud-and-security/scams",
+      "source": "SITEMAPS",
+      "targetPath": "/help/fraud-and-security/scams",
+      "id": "17a7f027d479dbf21122a6ed0a0b4d0a8db7c7ef"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/managing-your-money",
+      "source": "SITEMAPS",
+      "targetPath": "/help/managing-your-money",
+      "id": "d57fa431ed5d40013799246217d6a811bc3eff40"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/managing-your-money/help-with-essential-costs",
+      "source": "SITEMAPS",
+      "targetPath": "/help/managing-your-money/help-with-essential-costs",
+      "id": "19221d403630f01a34fd1b9c85684dedd41cfb66"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/managing-your-money/how-to-budget",
+      "source": "SITEMAPS",
+      "targetPath": "/help/managing-your-money/how-to-budget",
+      "id": "f8886acf059ad550378446f21da3566c15a35b24"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/managing-your-money/managing-borrowed-money",
+      "source": "SITEMAPS",
+      "targetPath": "/help/managing-your-money/managing-borrowed-money",
+      "id": "aba4c291aa73514ef9afba9fc33dc05bcd561a13"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/managing-your-money/switchd",
+      "source": "SITEMAPS",
+      "targetPath": "/help/managing-your-money/switchd",
+      "id": "31cfca382e3c1100ffcd4b0b66caa784df4d56da"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help",
+      "id": "6657f878500295d82bedff535f24db66b06441e8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/about-midata",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/about-midata",
+      "id": "579135ea3e58d862614d83b220f1bd0cffd0aa48"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/account-balance-statement-online",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/account-balance-statement-online",
+      "id": "f2e2b4b4ca917ca32fdeddff55910e9c4858ef85"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/account-missing-from-your-online-banking",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/account-missing-from-your-online-banking",
+      "id": "cf145bec73b69565f7bebe7eb47fe5b548303a52"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/bank-reference",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/bank-reference",
+      "id": "f2068724b84240f67745862ec15928b54275b2ce"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/card-reader-error-messages-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/card-reader-error-messages-explained",
+      "id": "4b138d906f8ead97b2ac87401563c3eff47c0bdd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/codes-by-text-message",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/codes-by-text-message",
+      "id": "8a1db8807a5a50b5fa6c5197f07d6a0eb89bf4db"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/forgotten-login-details",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/forgotten-login-details",
+      "id": "a2844c675ca372890c047d767e487532d8781f23"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/how-to-register",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/how-to-register",
+      "id": "22ba9b7c49abb6c88d33a69d99b3d2f2ea595b2c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/locked-out-of-online-bank",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/locked-out-of-online-bank",
+      "id": "247ffac7b0b17929df86789de858aef49132ab62"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/log-in-to-the-internet-bank",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/log-in-to-the-internet-bank",
+      "id": "59592d516b61597acba642955b71cbd3568c61fb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/order-a-card-reader",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/order-a-card-reader",
+      "id": "c883c7750442c50d2961361c9df0bbac44b3d60b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/online-banking-help/using-a-card-reader",
+      "source": "SITEMAPS",
+      "targetPath": "/help/online-banking-help/using-a-card-reader",
+      "id": "8e22f5903abbdf3ce1a5dacccd9e5b7f6369c2cb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments",
+      "id": "8f505ffd6b56615325750e8f6fbea725337a175e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/bic-iban",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/bic-iban",
+      "id": "ff0d190f07679d492533bea00d1aeac432ed9cc2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines",
+      "id": "9942a1f833439fda7fb101cf5d1c7a2a93a07c91"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/apple-pay-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/apple-pay-guide",
+      "id": "fbc60e2488b9628dee3fd4fd55f1c8928e8c7a99"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/card-not-working",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/card-not-working",
+      "id": "5404d1da5b22f0c6ab8c4db60f91832f25abddac"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/cash-machine-did-not-pay-out",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/cash-machine-did-not-pay-out",
+      "id": "50f96e82dd20d98f4fa62667ce06c208a9ef5970"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/cash-machine-swallowed-my-card",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/cash-machine-swallowed-my-card",
+      "id": "667e0f851ce16480bd0b4bc8c35103333ee093d7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/contactless-card-abroad",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/contactless-card-abroad",
+      "id": "638870418d1b817b0ac385b4802949da15d94cae"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/contactless-payments",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/contactless-payments",
+      "id": "8164d41fa5ce11124734a71525313ba4b4b23422"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/find-my-nearest-cash-machine",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/find-my-nearest-cash-machine",
+      "id": "0d29fc992d68c3ca76ae02b20d33c7925828c10c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/forgotten-pin",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/forgotten-pin",
+      "id": "df2a96ea2b945fa14ef8f14924872295cd63628d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/google-pay-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/google-pay-guide",
+      "id": "38faa1a44d36f19ff17bfe9ec04888477970cfe0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/is-contactless-safe",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/is-contactless-safe",
+      "id": "0403101db3fa2b3c4d58184de5168ef49172b395"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/money-paid-in-but-not-in-the-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/money-paid-in-but-not-in-the-account",
+      "id": "4723209753864827b12148c7343397c7499ad3fe"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/pin-change",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/pin-change",
+      "id": "bd8c039cf3bdd7662bf6acafc579e933cf124ccf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/pin-locked",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/pin-locked",
+      "id": "4605a365a79ebac0a66f60e6782ef516b2910648"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/samsung-pay-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/card-payments-and-cash-machines/samsung-pay-guide",
+      "id": "76fa75396e73f97c80391a18f410788afad410e7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/cheques",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/cheques",
+      "id": "0fa4086952904887cf8aa58870ff98dec3a1ad4d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/common-trading-names",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/common-trading-names",
+      "id": "e1dbc0df60d7df6aaad3bd97a17136e097829505"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/confirmation-of-payee",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/confirmation-of-payee",
+      "id": "3770edce5b6e9d2bf7024291af3f7706a5ebaf96"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/disputing-a-payment",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/disputing-a-payment",
+      "id": "a9e3ee53880b6ded0d9aea13f007c2709f711ca1"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/foreign-exchange-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/foreign-exchange-rates",
+      "id": "a6bb534ed6ef05049d75849ca093c299b2e5b40a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/lost-stolen-or-damaged-cards",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/lost-stolen-or-damaged-cards",
+      "id": "ff8b9311287297a707ab1af88f5c1bb31489fcb8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/manage-regular-payments",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/manage-regular-payments",
+      "id": "6a80fe88934d32c1fbe733aec670ab15e9ee4380"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/paying-in-coins-cash",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/paying-in-coins-cash",
+      "id": "352054c209f4da488dd30d8c1d9f8637f10715a4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/payment-on-my-account-is-wrong",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/payment-on-my-account-is-wrong",
+      "id": "f96123525a3b622ac7f99ef1cd7ced7e0e026554"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/pending-transactions",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/pending-transactions",
+      "id": "660b894a03e1b84ca2a3db979665d04d3328d5ae"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/recurring-card-payment-still-taken",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/recurring-card-payment-still-taken",
+      "id": "e1fcb5a1a2ed9f29bd5534c37a1cbcbd563843ed"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/regular-payments-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/regular-payments-explained",
+      "id": "84309f113ab050f2f92ce7c0ce0f6d6b13726b5a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/send-money-to-another-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/send-money-to-another-account",
+      "id": "1090de49d6a386b13ecb87e233c32dd3d3b18289"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/sent-payment-to-wrong-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/sent-payment-to-wrong-account",
+      "id": "2a74da06e17dfab0b7275ba416e02cf5256ba0c0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/swift-payments-additional-information",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/swift-payments-additional-information",
+      "id": "fd69e73de3ed094f42dffae6963dfe13b846951c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/swift-sepa-international-payments",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/swift-sepa-international-payments",
+      "id": "68809b78107b9d02be401cb19bf25f9795919af0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/transfer-limits-and-timescales",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/transfer-limits-and-timescales",
+      "id": "cfc4eb00c1c6be26b225961625a14ac56c9fbf7b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/transfers-between-nationwide-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/transfers-between-nationwide-accounts",
+      "id": "61291cad37113e127bb8565048a0f3f13066b0f2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/payments/view-upcoming-payments",
+      "source": "SITEMAPS",
+      "targetPath": "/help/payments/view-upcoming-payments",
+      "id": "56cecea1dd724541c250442f25e502c9290160ca"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/supporting-your-wellbeing",
+      "source": "SITEMAPS",
+      "targetPath": "/help/supporting-your-wellbeing",
+      "id": "e40a6417d66b6b8f928f1ea9aae7d26f4a6e123c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/supporting-your-wellbeing/customer-support-and-wellbeing",
+      "source": "SITEMAPS",
+      "targetPath": "/help/supporting-your-wellbeing/customer-support-and-wellbeing",
+      "id": "1491d67ef73e9ffe70e64824030dee72d812aa70"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/supporting-your-wellbeing/customer-support-and-wellbeing/experian-support-hub",
+      "source": "SITEMAPS",
+      "targetPath": "/help/supporting-your-wellbeing/customer-support-and-wellbeing/experian-support-hub",
+      "id": "78cff0d814004cc666c6142ef83f60905ce6fca2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/supporting-your-wellbeing/customer-support-and-wellbeing/support-needs",
+      "source": "SITEMAPS",
+      "targetPath": "/help/supporting-your-wellbeing/customer-support-and-wellbeing/support-needs",
+      "id": "f092c21db606f00746c6146b26bd6b08e0f1ffe1"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/supporting-your-wellbeing/mental-health",
+      "source": "SITEMAPS",
+      "targetPath": "/help/supporting-your-wellbeing/mental-health",
+      "id": "87fac93720ecd4fdb99a6bdab2bb09cdab077a38"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access",
+      "id": "48816c88ec3608d53a9d7963fb4e98c67695264e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/guide-to-court-of-protection-orders",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/guide-to-court-of-protection-orders",
+      "id": "550d3eddf79ae259675705eaf24bf1ed431a0bfa"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/manage-the-donors-money-using-the-internet-bank",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/manage-the-donors-money-using-the-internet-bank",
+      "id": "970871c81e95a380a1ae8fdf74c51fd0369d689f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/register-a-court-of-protection-order",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/register-a-court-of-protection-order",
+      "id": "b3af9a8fd9eebe0123f03eb9ec4c591325d32999"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/register-a-power-of-attorney",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/register-a-power-of-attorney",
+      "id": "bef60d3a0b60dc89c8383c478257cb72b9e0eccc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/request-a-debit-card-for-the-donors-account",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/request-a-debit-card-for-the-donors-account",
+      "id": "beaad4b60fe0e15cdace6ca1b11b668a2d8caaa0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/third-party-mandate",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/third-party-mandate",
+      "id": "806daec30ba4d0a297573d3019dc0ff0d087b734"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/understanding-power-of-attorney",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/understanding-power-of-attorney",
+      "id": "6fbd6c470faa9cffd84a790d7275a8504a3507c3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/using-a-court-of-protection-order",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/using-a-court-of-protection-order",
+      "id": "324c9d401bb8aa4da70933c626e616309f262729"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/third-party-access/using-a-power-of-attorney",
+      "source": "SITEMAPS",
+      "targetPath": "/help/third-party-access/using-a-power-of-attorney",
+      "id": "4bae809978f4b2e511553ffa0a5e17b2c071f656"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel",
+      "id": "540b22f173c0d41145b238e0fc7ff9e34fe93dcd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel/charges-using-your-card-abroad",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel/charges-using-your-card-abroad",
+      "id": "fb52dfcb77f29cb8b0275dbfa876022c2c8c8149"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel/compare-eea-currency-conversion-charges",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel/compare-eea-currency-conversion-charges",
+      "id": "17cdf29734a7d8fc5c813c3701d669c28996e72b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel/help-when-travelling",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel/help-when-travelling",
+      "id": "c74c4e8edcd31f03c7c9e6f7fd23f331008a0d86"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel/living-and-working-abroad",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel/living-and-working-abroad",
+      "id": "4b26d02124e68a83ce4c90aa026728693d763cc8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/travel/preparing-to-travel",
+      "source": "SITEMAPS",
+      "targetPath": "/help/travel/preparing-to-travel",
+      "id": "bacc438a50af4761cc624a9f35aecda34bf41969"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details",
+      "id": "20d955114acc21487d2c470dbdf9c4b606423136"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/change-your-contact-details",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/change-your-contact-details",
+      "id": "c48f818710e0487e1678fba07316f7918a7c71c8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/change-your-name-title-gender",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/change-your-name-title-gender",
+      "id": "61d72764d8cd44659b066e6d037d68bd3a326867"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/confirming-your-details",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/confirming-your-details",
+      "id": "2620e6a5365313a0ce5b425ae1c57ab5faa5e913"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/find-your-account-details",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/find-your-account-details",
+      "id": "ae235a364c2d352c552e98d4f259da9ef0b0f07d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/proving-your-identity",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/proving-your-identity",
+      "id": "1ee86dfb4beaa28120bf4fe01908c4afce4222f3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/proving-your-income",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/proving-your-income",
+      "id": "d89c232274583e82cd82631700e776ffaf36ed95"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/registering-foreign-address-online",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/registering-foreign-address-online",
+      "id": "e704a8d6ad46d20a395b5f586b49df057a9ba8fc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/request-paperless-communication",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/request-paperless-communication",
+      "id": "fa1b76cbb52161c5f1f5d9e1ef10c1626ccf6d5b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/update-marketing-preferences",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/update-marketing-preferences",
+      "id": "83898a1bd4261ca853a7004e31d0e0661721876c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/help/your-details/using-biometrics",
+      "source": "SITEMAPS",
+      "targetPath": "/help/your-details/using-biometrics",
+      "id": "290810770d3b68f23102c714dd2912dfc5529b46"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/house-price-index",
+      "source": "SITEMAPS",
+      "targetPath": "/house-price-index",
+      "id": "1ffd1d3b1c2151ee54aaa7a6670a05a1d83795ad"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/house-price-index/methodology",
+      "source": "SITEMAPS",
+      "targetPath": "/house-price-index/methodology",
+      "id": "7e45d16533a9750ebe3ce365106c4da5bf92b30b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance",
+      "id": "cd3179c07452107814dc7397f63c2e097e21dc22"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims",
+      "id": "45f45a1380a528702bea111d111b248634b9b0f5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/change-or-cancel-home-insurance-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/change-or-cancel-home-insurance-policy",
+      "id": "39d7eb8591f191d6ef87552e52c80aa56990ca29"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/changes-to-income-protection-insurance-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/changes-to-income-protection-insurance-policy",
+      "id": "eed6dac9158d90259dfad1aa85b4fd390a1091df"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/changes-to-life-insurance-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/changes-to-life-insurance-policy",
+      "id": "c65bf0baac247434167c82845f77bb5516e1d8db"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/critical-illness-cover-claim",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/critical-illness-cover-claim",
+      "id": "ddfb8e960e7cb693da1f55e8b549289bd09dd716"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/home-insurance-claim",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/home-insurance-claim",
+      "id": "4c5c0a24eba186db307271009871aab8c0bb81a1"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/home-insurance-whilst-working-from-home",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/home-insurance-whilst-working-from-home",
+      "id": "3462192a7b1109d2a31cd821ba6a468b82cb2007"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/how-to-prepare-your-property-for-severe-weather",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/how-to-prepare-your-property-for-severe-weather",
+      "id": "2f3b32ad306ac838cc159e5467b53eb051e67f68"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/income-protection-insurance-claim",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/income-protection-insurance-claim",
+      "id": "b63115e7b00cc9c56adaf53ad79e8fcb4bf3c8a0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/help-and-claims/life-insurance-claim",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/help-and-claims/life-insurance-claim",
+      "id": "53c12eeea2775b3a6ad91b048121b0e11d617c52"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/home-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/home-insurance",
+      "id": "fde80909c1186e1a97de6ec1016fe23f7de1049f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/home-insurance/buildings-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/home-insurance/buildings-insurance",
+      "id": "41229cf205a9bd3cc968975404d248e0141c3a9f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/home-insurance/contents-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/home-insurance/contents-insurance",
+      "id": "87558e36c400f0bdccc17e20676d78e1c498b755"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/home-insurance/renters-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/home-insurance/renters-insurance",
+      "id": "eb9ebf20fb539a3c1a6695c003e421a1b44975b6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/income-protection-benefit",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/income-protection-benefit",
+      "id": "3b19e0bbe849dcdbccdd0f346de5cf1b51f9cfd3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/income-protection-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/income-protection-insurance",
+      "id": "284a05fdb0f67bf38f72a45b59e199f09f4e7d2d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/insurance-pricing-changes",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/insurance-pricing-changes",
+      "id": "ad6cbdb9bee78fede04be946abcaf2d83fcb2264"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/life-insurance",
+      "id": "98cb7558e44338d34307abfc96a9c00ed176c632"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/life-insurance/critical-illness-cover",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/life-insurance/critical-illness-cover",
+      "id": "3124cee35da30e086937af05deca83094508472f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/life-insurance/guide-to-life-insurance",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/life-insurance/guide-to-life-insurance",
+      "id": "0a4a7b817e5a77bd83fc269aba2248b4ce682f6c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/life-insurance/life-insurance-advice-service",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/life-insurance/life-insurance-advice-service",
+      "id": "10fb8de0fd4444342826f70120868cbf7ebe5a16"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/life-insurance/terms-and-conditions-voucher",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/life-insurance/terms-and-conditions-voucher",
+      "id": "ed3583a9a3288e5faa6517952707eef84075b0e9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/insurance/resources",
+      "source": "SITEMAPS",
+      "targetPath": "/insurance/resources",
+      "id": "3d8d45dc19e7013e3a658072451daec0d912fab0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations",
+      "id": "6c711bc012a97698a7f0ac196891ad97f121f06e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/at1-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/at1-terms-of-access",
+      "id": "8ab5510c10606993a5994a36cf8a1265f26a756d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/ccds-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/ccds-terms-of-access",
+      "id": "b34a5af625b12d0fd61c8a931e20c98f671d2f75"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/ccds-terms-of-access/ccds-market-data-and-investor-information",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/ccds-terms-of-access/ccds-market-data-and-investor-information",
+      "id": "3befb85112527d65eb252e2d833ed3278d3b6de2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/certificate-deposits",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/certificate-deposits",
+      "id": "4486e4fb6dae4848684d3788f05fd407787794bf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/contact-investor-relations",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/contact-investor-relations",
+      "id": "aafac1869598f10ad77dc5c9d0e6e86b85718bee"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/covered-bond-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/covered-bond-terms-of-access",
+      "id": "5b370140bb389c78de44b3366f06ecbbf33fcbd1"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/emtn-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/emtn-terms-of-access",
+      "id": "a90c30289e77f3ded6f7ae7dac14b2fa786f1da7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/pibs-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/pibs-terms-of-access",
+      "id": "ae82d2846006487308732a0542c9f08498e40f2e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/silverstone-rmbs-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/silverstone-rmbs-terms-of-access",
+      "id": "e7d0f855a90bc320b08ae66fd1107965b70994bf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/time-deposits",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/time-deposits",
+      "id": "0796777f86e9a2ac4be5771f2c73a74cc9513c04"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/treasury-contacts-policy",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/treasury-contacts-policy",
+      "id": "5e0dfa8f7a7d31f987401df691dd68ab3974abfc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/investor-relations/usmtn-terms-of-access",
+      "source": "SITEMAPS",
+      "targetPath": "/investor-relations/usmtn-terms-of-access",
+      "id": "ea156d44fcdf64b7f3f31f4f660d8629c0cb8f1e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans",
+      "source": "SITEMAPS",
+      "targetPath": "/loans",
+      "id": "3889499060965ef4f5d528a95c8c363c0655e9a9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/apply",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/apply",
+      "id": "299f4f7e3f739302ed0edf804aeeb68ba38cfc48"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/borrow-more",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/borrow-more",
+      "id": "0a7cc806ba7a375a9031ba3825b689412b3bc024"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/calculator",
+      "id": "300087e13b5399c6755750ecda03f9aa222805a9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/car-loans",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/car-loans",
+      "id": "cb1efc51b61a94510c74d49726475aa7af2b5b72"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/debt-consolidation",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/debt-consolidation",
+      "id": "ce8d3857757c0b2952862ab8eed5db2cfb224a7e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help",
+      "id": "e7e20976170f45da4bbc44d806a12ea1a287b6b2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/application-proofs-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/application-proofs-guide",
+      "id": "312822c6393bb8dc51bb997448bda58d56a17fe2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/cancelling-your-loan",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/cancelling-your-loan",
+      "id": "7b4e4a1466686cbebfe094f8cb3c392ce0908467"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/joint-loans",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/joint-loans",
+      "id": "6dfc73cdb73c3562835e876affaddfa15debaee0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/loans-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/loans-terms-and-conditions",
+      "id": "9c5585948807ac1e2ea259159ab83ee470a44f75"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/making-an-overpayment",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/making-an-overpayment",
+      "id": "6759a99a8f640232705161ec1e231af8cc7f66d3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/help/paying-off-your-loan-early",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/help/paying-off-your-loan-early",
+      "id": "2c17dd95109e5306bbe5dbb86d639ddeae9b9d06"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/home-improvement",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/home-improvement",
+      "id": "d3a68bfe2528d8b3ad13eabb70cd26a91b8daa06"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/loans/loan-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/loans/loan-rates",
+      "id": "21bd4bf23487de02237202847fe98e7cf1d7f1b7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages",
+      "id": "f41dd6e37dd740cba2e7875a6ba1ef08d9356356"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/95-percent",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/95-percent",
+      "id": "a084d9383bb0bbcdf0ed3b7e376cbb2565ff5281"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/affordable-housing-schemes",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/affordable-housing-schemes",
+      "id": "24cf287cf8fc82dee613b23b448cef97537b6a93"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/bank-of-england-base-rate-changes-and-your-mortgage",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/bank-of-england-base-rate-changes-and-your-mortgage",
+      "id": "86555aa04933c784833de015afb7294e0595f87a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/borrowing-more",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/borrowing-more",
+      "id": "f386ae31882e54f9c8cdb576ad800683a4821e71"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/borrowing-more/borrowing-options",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/borrowing-more/borrowing-options",
+      "id": "7c2fbf4d6506f3f3f0bb2311d2ba6e9f04d5c540"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/borrowing-more/green-additional-borrowing",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/borrowing-more/green-additional-borrowing",
+      "id": "73c6d3fec6171f9df75e5cd83b57c516bb8fd250"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/borrowing-more/ready-to-apply",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/borrowing-more/ready-to-apply",
+      "id": "6f3535a29f495dd4782e93423b1cc93f2173bd46"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/buy-to-let",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/buy-to-let",
+      "id": "d189b8205d6c4185b577bf69107bef068652d7fe"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/continue-saved-application",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/continue-saved-application",
+      "id": "65eae5c2c2789188eff764da1820637e7a39cdfa"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/decision-in-principle",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/decision-in-principle",
+      "id": "144fa0e74b1223561330e35bbd0a2cb3088da5ce"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-customer-switching",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-customer-switching",
+      "id": "a29b2a937e327fbeea0ce5096d05d055c7891dbb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-customer-switching/guide",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-customer-switching/guide",
+      "id": "8b7560400ce87528aaa72da6060ddc288628d15b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members",
+      "id": "9fbadfa367d17b4793a0cf66f3cb22b0ff7e1534"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/annual-mortgage-statement",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/annual-mortgage-statement",
+      "id": "f42fdcb105bb98322ea5890b9af2394db732c464"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/arrears",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/arrears",
+      "id": "925c47ec1937100d01417bf191760197c3a77f65"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/bank-of-england-base-rate",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/bank-of-england-base-rate",
+      "id": "f19a2983ef6aea262c1468d0bda210758c05020c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/borrow-back",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/borrow-back",
+      "id": "1f39f91935817d70f09c012749326dfe23a09682"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/change-direct-debit",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/change-direct-debit",
+      "id": "f1328f15f3e3cbd5d6cb656d3b95f0e651414c93"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/change-of-borrower",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/change-of-borrower",
+      "id": "1b4376c3aab756c6ee1cfabfd1a15c3926296361"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/change-your-mortgage-term",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/change-your-mortgage-term",
+      "id": "ceace98db468db1dbb8258c9dbf69ef9619dc2c8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/changing-your-repayment-type",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/changing-your-repayment-type",
+      "id": "d5953f283cf614ac1f192f1b46d4cf5181e8c7d4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/early-repayment-charges",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/early-repayment-charges",
+      "id": "4609630b49d5d9eab9e5af980464226e7a180d6d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/home-support-hub",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/home-support-hub",
+      "id": "0e3cb292894ee9a3d02f93b31b51a7d48544ec3c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/letting-your-property",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/letting-your-property",
+      "id": "eaa6bc9b38a325a6f8b7e91cbf6a7cd2ae14162f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/negative-equity",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/negative-equity",
+      "id": "ab45b10694d8fd6d436687ac7c775b98cd31708d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/overpayment-reserve",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/overpayment-reserve",
+      "id": "343f040f8099631401f7cd2191ec2964a76183af"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/overpayments",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/overpayments",
+      "id": "120b3e921ff49e562aab42f0da1191171c3d6108"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/payment-holidays",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/payment-holidays",
+      "id": "5119c308a2b84c5514ee37168eb81b8776190cac"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/redemptions",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/redemptions",
+      "id": "fcf883887b5bdd5bf01f0b79e1f4d9769fccfb60"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/standard-and-base-mortgage-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/standard-and-base-mortgage-rates",
+      "id": "3ff394c4160d908ac7c505ba99b977587f0e912f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/title-deeds",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/title-deeds",
+      "id": "736032e94528d551679d70383b6d9ddb20814a82"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/underpayments",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/underpayments",
+      "id": "b90c9c57633e9d8a59c110118f9423f9985d9822"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/existing-mortgage-members/your-first-mortgage-payment",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/existing-mortgage-members/your-first-mortgage-payment",
+      "id": "f6ee176387569b2147371a18160e57aec1590bb6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/first-time-buyers",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/first-time-buyers",
+      "id": "9dbc11ad902948dcb5917c54472bc081a1f81a20"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/first-time-buyers/apply",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/first-time-buyers/apply",
+      "id": "0538a162ef64b6bb2e1e94f192178b00ef55d073"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/first-time-buyers/guide",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/first-time-buyers/guide",
+      "id": "e2a2bb146d6e8cbf655590838051f56b56f0e573"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/first-time-buyers/helping-hand-mortgage",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/first-time-buyers/helping-hand-mortgage",
+      "id": "9e83cb50a560f88c8865ea20a8bedc6ccaa2fa8d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/green-reward",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/green-reward",
+      "id": "db19ac763a5ad41e7f7342d00ca07d9754a76f57"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/help",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/help",
+      "id": "84c1950379465391cf4b2420610662671ea3aeda"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/help/application-proofs-guide",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/help/application-proofs-guide",
+      "id": "aae2fa9e4a276b073f351798e367845f108bbbc2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/help/fees-and-charges",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/help/fees-and-charges",
+      "id": "1718b8799f16f2b642c408390b778d1d6522507d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/help/gifted-deposit",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/help/gifted-deposit",
+      "id": "5c20302fb08e9b0206f09b063803ae7efc01e2f7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/help/guarantor-mortgages",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/help/guarantor-mortgages",
+      "id": "3ba8e1054b358d3984c9d0d5917d29de09b97b73"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/home-survey-report-fees",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/home-survey-report-fees",
+      "id": "282d415b75d64979c50967503d2c27fdea56d03d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/homes-for-ukraine-scheme",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/homes-for-ukraine-scheme",
+      "id": "511954485e8d18debadeac6115a318410bfddebc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/how-much-do-i-need-for-a-deposit",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/how-much-do-i-need-for-a-deposit",
+      "id": "d36401fd24c434aae0e7c13bd7c3cd8c73eabb1d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/how-to-get-mortgage-ready",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/how-to-get-mortgage-ready",
+      "id": "53192f3c38599011affd44519314ea704f37a29e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/introduction-to-mortgages",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/introduction-to-mortgages",
+      "id": "ddd0c08ec8e2bd328a912b75357ee81d0dc0f228"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-calculators",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-calculators",
+      "id": "ac3500fd68e4372adde43080c6c6ed49680f345f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-calculators/borrowing-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-calculators/borrowing-calculator",
+      "id": "ce2fd336375c9b4939937861683b398c9d4a7365"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-calculators/early-repayment-charge-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-calculators/early-repayment-charge-calculator",
+      "id": "9519b82290ce754435354c33a7a74f250fb3bf93"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-calculators/mortgage-repayment-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-calculators/mortgage-repayment-calculator",
+      "id": "8df87dff11ccdd9e7ba9928970091ce06fa2b49b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-calculators/overpayment-calculator",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-calculators/overpayment-calculator",
+      "id": "638d2f640761f8c77cd0eb0e63ef92e42f023171"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-health-check",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-health-check",
+      "id": "0391917c93e647be637cacd497df1282de0ebbe4"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-rates",
+      "id": "c1bb38442f9a850140042042765f7e3adb7571c0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/mortgage-valuation-and-home-surveys",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/mortgage-valuation-and-home-surveys",
+      "id": "c8cbde022caf9e9e72f7406d1bd041e2890b6cea"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/moving-home",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/moving-home",
+      "id": "2ea80b0dc4971342468dc45837eb16a8577678db"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/moving-home/apply",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/moving-home/apply",
+      "id": "f20116ccf95799181b3c5086f6654ef323a62e93"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/moving-home/porting-your-mortgage",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/moving-home/porting-your-mortgage",
+      "id": "0c6c0d15661409324fd9e5a87a00bf77d518b845"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/new-build-mortgage-offer-extension",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/new-build-mortgage-offer-extension",
+      "id": "e913bcda56151a27e0aedffa502747349c07844a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/over-55s-mortgages-rates",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/over-55s-mortgages-rates",
+      "id": "8334693527f0ae45efed5b11ef0f3a7ad1f7738e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/remortgage-to-nationwide",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/remortgage-to-nationwide",
+      "id": "902621dbe884379ab35f5108e5a753bfeea87938"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/remortgage-to-nationwide/ready-to-apply",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/remortgage-to-nationwide/ready-to-apply",
+      "id": "33e74ecd0aeb562a15f0dbce185deecae3662691"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/resources/certificate-of-mortgage-interest",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/resources/certificate-of-mortgage-interest",
+      "id": "ec4e604b4bf9a9853771d8f28303a76413e84c9b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/resources/lending-by-postcode",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/resources/lending-by-postcode",
+      "id": "11107e7be59d3f00646616744db848ba561c2793"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/resources/mortgage-charges-access-and-terms-standards",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/resources/mortgage-charges-access-and-terms-standards",
+      "id": "44bb2207547633685b2958dc105e8ce512b1354c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/resources/mortgage-offer-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/resources/mortgage-offer-terms-and-conditions",
+      "id": "00d4b71abba658fb6334d73bebd98c730b49803e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/mortgages/title-deeds-request-form",
+      "source": "SITEMAPS",
+      "targetPath": "/mortgages/title-deeds-request-form",
+      "id": "d90321dbd47ab1dd126ce1f55ff5e129ba62d47c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories",
+      "id": "983524b0f9da274dc963080d4004fd618f6573c6"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/accessible-cards",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/accessible-cards",
+      "id": "4f0f6e231ca8f3a0f255e91ec1eae363ba555cde"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/bank-of-england-changes-base-rate",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/bank-of-england-changes-base-rate",
+      "id": "24970d4428baf179c60f813e7d6a65e8c3ba83fc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/budget-for-summer",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/budget-for-summer",
+      "id": "765fa3473d98bdcaf1d54689c29763707447e50b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/community-fund-winners",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/community-fund-winners",
+      "id": "ae15db34e39865f9623f0f5da3c52bc44cd2fb22"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/contactless-limit-is-changing",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/contactless-limit-is-changing",
+      "id": "8adac9f2f291542542279cd9b363ab29ec9e5abe"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/cost-of-living-how-we-are-here-for-you",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/cost-of-living-how-we-are-here-for-you",
+      "id": "1161ba6f151e804c5c1ce941fc8e67349a8f9248"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/dating-a-scammer",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/dating-a-scammer",
+      "id": "bda8004ddbc36c4926111eb546131e0396c9bb4a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/delete_fairer-share",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/delete-fairer-share",
+      "id": "16ff0737b5a1d1219aee51f529e3736701e60071"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/donate-to-ukraine",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/donate-to-ukraine",
+      "id": "e5784a43fe14d94296c41e9fc09ac6e5aad08602"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/home-support-package",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/home-support-package",
+      "id": "3aacad1cd7c3c38a3a52c5232f213f1c80bf250c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/how-to-avoid-becoming-a-money-mule",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/how-to-avoid-becoming-a-money-mule",
+      "id": "6606c5575eed7f4000a08a85c15ae9085b126115"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/identity-fraud",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/identity-fraud",
+      "id": "ff961ebffa5399c97c064c8bddcbbd1d16d1a4b8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/impersonation-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/impersonation-scams",
+      "id": "111130d1af8c8a40d0f19b682416198ef48c6027"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/investment-and-cryptocurrency-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/investment-and-cryptocurrency-scams",
+      "id": "80ff959aea21759e70ecd4cb680fc0c42dcbc02f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/nationwide-and-virgin-money",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/nationwide-and-virgin-money",
+      "id": "2682d41fe95a0173ab73d2299cbfc1f1f3c80e28"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/nationwide-offer-to-buy-virgin-money",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/nationwide-offer-to-buy-virgin-money",
+      "id": "eaf7befcf52e55ffe7d0e659961c2c7709a513ff"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/passbooks",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/passbooks",
+      "id": "2fdb9e1f49d66328eaf0c0967e265d5925c3b142"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/payment-in-advance-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/payment-in-advance-scams",
+      "id": "8003ce3e0f41895f725dc55fac65bf3bff7d4e2a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/payment-limits",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/payment-limits",
+      "id": "aed7782ad604d5194e51809e00e74d6a4b02bc45"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/police-impersonation-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/police-impersonation-scams",
+      "id": "dbe4df3d9d30468cfb3d12ab248bc3d3280c9283"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/protect-your-money-from-purchase-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/protect-your-money-from-purchase-scams",
+      "id": "750642944e51a5ca20a08a336576066f239aff54"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/rogue-traders",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/rogue-traders",
+      "id": "9cbe5e509aa445f907ce0959a2959786157c438d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/safe-account-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/safe-account-scams",
+      "id": "4b59db61c1d1b024b90a65e672b05438b078c26d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/scam-checker-service",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/scam-checker-service",
+      "id": "018cd3fef5d45b31f7da6d3a3905a0cde360627a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/theres-no-competition-in-windsor",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/theres-no-competition-in-windsor",
+      "id": "056d64a752c4a5cbf06e3b561d81421e408eecae"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/ticket-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/ticket-scams",
+      "id": "1436636f61ced72e236ef6050a1005b8399e3715"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/travel-holiday-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/travel-holiday-scams",
+      "id": "902f30c7d94e650bda3de2001a225d9603d6bed9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/using-legal-tender",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/using-legal-tender",
+      "id": "f9f92b2be8c504edb44f3fdbc495f6aaf6725353"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/virgin-money",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/virgin-money",
+      "id": "5758ffd635683969e87266aa5a07fca0d4b933e3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/virgin-money-acquisition",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/virgin-money-acquisition",
+      "id": "3af39765c8f995ee9014354535e3291a07b9108f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/virgin-money-cma-update",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/virgin-money-cma-update",
+      "id": "1d1927dcc4d42f9ee7bc25616c0cf64f9cfa0cfa"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/virgin-money-court-sanction",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/virgin-money-court-sanction",
+      "id": "f53bdde64daec070babf62793eecfb361d44f44f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/virgin-money-update-sept-2024",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/virgin-money-update-sept-2024",
+      "id": "5d403b57d6e20fdd825f8489ce6f8d586c7580de"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/weve-launched-signly",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/weve-launched-signly",
+      "id": "e7e72f71df92218768b7a1deb0a2b3c938b77a10"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/whatsapp-scams",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/whatsapp-scams",
+      "id": "47a348d69da4924f133851660839a0780a348cc7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/news-and-stories/withdrawing-from-paym",
+      "source": "SITEMAPS",
+      "targetPath": "/news-and-stories/withdrawing-from-paym",
+      "id": "956302d356acfd3a9c1fd38e660db44d168798cf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings",
+      "source": "SITEMAPS",
+      "targetPath": "/savings",
+      "id": "2db41e99a5fb3b856aa140cf13b0a062e7e36131"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/cash-isas",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/cash-isas",
+      "id": "3b75ae8cd66dedbffe1851d647e4a7bd84c2f8d5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/check-savings-interest-rate",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/check-savings-interest-rate",
+      "id": "6c08f1e50f5da690ed412c747a23d2ada44f7021"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/childrens-future-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/childrens-future-saver",
+      "id": "ba11d2d6907d52ece029053fe7d399ac09f64076"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/childrens-savings-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/childrens-savings-accounts",
+      "id": "47a6d329e84035165a432a4e4d75b24c018f0ce3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/compare-savings-accounts-and-isas",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/compare-savings-accounts-and-isas",
+      "id": "f308b5ac97a06e286dd32dc8d27d8ea4cb895fa5"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/fixed-rate-branch-bond",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/fixed-rate-branch-bond",
+      "id": "afd1fa954f42b96aebb2b47b39cdc1de58418344"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/fixed-rate-cash-isa",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/fixed-rate-cash-isa",
+      "id": "ac6f91732e654182bb49d89aef6a6ad0a07c2f88"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/fixed-rate-online-bond",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/fixed-rate-online-bond",
+      "id": "9dfd452514f5da7a7b2e7fd5d7c19b6c905ce392"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/fixed-rate-savings-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/fixed-rate-savings-accounts",
+      "id": "f1b41768218ad41b30f609258197ff0c587abefc"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/flex-instant-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/flex-instant-saver",
+      "id": "f4a04b6eadb3082cf844203e26547dce4acce64b"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/flex-regular-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/flex-regular-saver",
+      "id": "f78bfb8e774998b9b43d0c437ebaa4b71d76d258"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/flexone-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/flexone-saver",
+      "id": "0fa02b83152ce7ac96e83cfe74b0b45efcf6ef4c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help",
+      "id": "f02b249a1d171a43e928ee5b6b9da8f33d01a5e2"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/child-trust-funds-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/child-trust-funds-explained",
+      "id": "2d1f0e60d1b2545758463291d5f0a147fca372cd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/close-a-savings-account",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/close-a-savings-account",
+      "id": "c48ce9d888a081dc7e9b907ccde8ce7e956f4502"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/faqs-help-to-buy-isa",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/faqs-help-to-buy-isa",
+      "id": "1c3c5663aaabad4c1cff7e903866f17f41778949"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/fixed-rate-bond-maturity-options",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/fixed-rate-bond-maturity-options",
+      "id": "c90d308a48a08b56447c502b40f905dd38462a4a"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/fixed-rate-isa-differences",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/fixed-rate-isa-differences",
+      "id": "4009dde36897f5ead09dff7e2dcb0f3efe25e01e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/fixed-rate-isa-maturity-options",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/fixed-rate-isa-maturity-options",
+      "id": "1f2eea18993a18df96fd8eba800ad8d12bf7129c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/help-to-buy-isa-declaration",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/help-to-buy-isa-declaration",
+      "id": "b491050c1c0e112dd734b02e7846dae5c9371f72"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/inherited-isa-allowance-explained",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/inherited-isa-allowance-explained",
+      "id": "192514634108469ee88050303a33dd24db3bc478"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/order-inheritance-isa-paying-in-slips",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/order-inheritance-isa-paying-in-slips",
+      "id": "faa75d78aa043771564113d0232586cd4a2cc490"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/personal-savings-allowance",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/personal-savings-allowance",
+      "id": "2088ef7ea3e3488818e6ef499deebe894a319015"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/renew-your-isa",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/renew-your-isa",
+      "id": "9be87d1ceb1486edafbad54004d595694715a33e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/summary-boxes",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/summary-boxes",
+      "id": "e43f6d240541034015fe821b277c6852afe2167c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/terms",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/terms",
+      "id": "5978ec4c44f8814f499956e821ff95c6f304de9c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/terms/isa-declaration",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/terms/isa-declaration",
+      "id": "4e8552ca1fbdc23371107065ebf7aeb5ec74e262"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/terms/savings-declaration",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/terms/savings-declaration",
+      "id": "077149d8549a13aba562b466fe667b8a805befed"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/terms/savings-watch-terms-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/terms/savings-watch-terms-conditions",
+      "id": "9f4e91cb92df745a1636534198c252cb40fa8019"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/transfer-isa",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/transfer-isa",
+      "id": "efe4976353233bd57874e86158511c6de5927682"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/ways-to-pay",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/ways-to-pay",
+      "id": "82f3e94a6fae7e1ed480e10b9c84d645e14d5dad"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/ways-to-withdraw",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/ways-to-withdraw",
+      "id": "49059d51b7d5d96dcee6e8d1eed89952f1a7a9b9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/help/when-your-interest-is-paid",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/help/when-your-interest-is-paid",
+      "id": "0c85fc76149b159705f6e4723c9149b9d9e6f01e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/helping-you-save",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/helping-you-save",
+      "id": "bd5bc443ba8c90fd133ad794ab2b5e78c1eb8d91"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/instant-access-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/instant-access-saver",
+      "id": "3f96c0cf561c0e2b964dab7d6ba0f2fd9758db6f"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/instant-access-savings-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/instant-access-savings-accounts",
+      "id": "fd753bbecb7b6d9a02cc21063b36298720fec429"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/investments",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/investments",
+      "id": "170de32ae3ca8c291fb28142b389f25ed547e7b0"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/limited-access-savings-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/limited-access-savings-accounts",
+      "id": "9c841ed09a7a2f42ddda2578b5d745aae2ccc154"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/member-exclusive-branch-bond",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/member-exclusive-branch-bond",
+      "id": "df45f73214764e9bae4299be4fafa668ad83dd05"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/member-exclusive-online-bond",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/member-exclusive-online-bond",
+      "id": "fc2dc1fa9622b756f6e44d7b1c3582b6c48a6c29"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/passbook-accounts",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/passbook-accounts",
+      "id": "e4c2c58f8c6a96b29a892d5b8e6eb0f3529e5ccf"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/passbook-accounts/savings-passbook-changes-faqs",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/passbook-accounts/savings-passbook-changes-faqs",
+      "id": "bd7afdcb652b51a9e0158b45bdec8c2a4f74e88d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/savings-promises",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/savings-promises",
+      "id": "48dc9fd3f6f93d24741b8ff0531d3a6593909251"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/savingswatch",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/savingswatch",
+      "id": "1584cfe028cdc39080315b06eca2db36449c8c53"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/triple-access-online-isa",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/triple-access-online-isa",
+      "id": "8b37dec7b4c4e02158e16bfdc241a1bf18c53039"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/savings/triple-access-online-saver",
+      "source": "SITEMAPS",
+      "targetPath": "/savings/triple-access-online-saver",
+      "id": "d918481f30a20b7bc9dca75f94a50f6330b3eabb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ventures",
+      "source": "SITEMAPS",
+      "targetPath": "/ventures",
+      "id": "5846c34cbe2d9e38a926c51a9841fb8760ce51b7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank",
+      "id": "557d73651f342753a17f804b4b61aa03072ec6a3"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/banking-app",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/banking-app",
+      "id": "80cd3407e97207fd1463b9f123fa1a69396cd8d9"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/banking-app/banking-app-security",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/banking-app/banking-app-security",
+      "id": "4b3e69de923ef192ba5d6c15d9b21476500a4a18"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/banking-app/banking-app-support",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/banking-app/banking-app-support",
+      "id": "56336ea042359ba5fcbb98e1b64c4ef74d6f29a8"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/banking-app/banking-app-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/banking-app/banking-app-terms-and-conditions",
+      "id": "2f5fa2e730162242def6198a7c9f6c2594f5b79e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/branch-banking",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/branch-banking",
+      "id": "e77f22cc1130952e5f6e9c36fe1c80b99662b271"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/cash-machine-and-atm",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/cash-machine-and-atm",
+      "id": "ac5facb6d4d96c30dbd682042cfd385573fe5753"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/internet-banking",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/internet-banking",
+      "id": "325956b819f749843bf8b83dd307d65c1796f8be"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/open-banking",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/open-banking",
+      "id": "03525cae1cbcf9a3ffb2f81b715445ed882cda3c"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/open-banking/open-banking-security",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/open-banking/open-banking-security",
+      "id": "a4e2e2d9020f70a3f313e858c5d76e6fcab73f9d"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/resources/changes-to-log-in",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/resources/changes-to-log-in",
+      "id": "f78295e9f57ec1ae1ec1edda4039f7b0f4ff40fb"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/service-status",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/service-status",
+      "id": "b4b9c59442c9e7b37933faa1983c53ee535b4d49"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/telephone-banking",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/telephone-banking",
+      "id": "71f83c457171da7a00e505028499aaa441b720cd"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/terms/apple-pay-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/terms/apple-pay-terms-and-conditions",
+      "id": "5f0c42454e55938970cb678646164e0cb5410a7e"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/terms/google-pay-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/terms/google-pay-terms-and-conditions",
+      "id": "bad47d948d0f3e982c994038ac30e99445d2fc61"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/terms/samsung-pay-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/terms/samsung-pay-terms-and-conditions",
+      "id": "628165f6147038f1f287986370a5ee0d2df1a4b7"
+    },
+    {
+      "url": "https://www.nationwide.co.uk/ways-to-bank/terms/text-alert-terms-and-conditions",
+      "source": "SITEMAPS",
+      "targetPath": "/ways-to-bank/terms/text-alert-terms-and-conditions",
+      "id": "40c968076836c67291cb5f332adde574df1f7fdf"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.nationwide.co.uk/current-accounts/flexplus/travel-insurance",
+      "status": "fetch failed"
+    }
+  ]
+}
