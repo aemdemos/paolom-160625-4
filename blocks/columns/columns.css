@@ -1,3 +1,4 @@
+/* Columns 29 base styles */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -92,16 +93,35 @@
   margin-top: 0;
   letter-spacing: 0.01em;
   transition: border-bottom-color 0.2s;
+  vertical-align: middle;
+}
+
+.columns.columns35 a:not(.button) {
+  color: #102760;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+
+.columns.columns35 > div > div:last-child ul li a {
+  color: #102760;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  font-size: 1.05rem;
+  transition: color 0.2s;
 }
 
 .columns.columns29 .columns-img-col a:hover,
 .columns.columns29 .columns-img-col a:focus {
   border-bottom-color: #6A8DFF;
+  vertical-align: middle;
 }
 
 .columns.columns29 .columns-img-col picture,
-.columns.columns29 .columns-img-col img,
-.columns.columns29 .columns-img-col a {
+.columns.columns29 .columns-img-col img {
   vertical-align: middle;
 }
 
@@ -110,6 +130,7 @@
     max-width: 100%;
     gap: 0;
   }
+
   .columns.columns29 .columns-img-col {
     margin: 0 8px;
     flex: 1 1 120px;
@@ -121,6 +142,7 @@
     flex-wrap: wrap;
     gap: 32px 0;
   }
+
   .columns.columns29 .columns-img-col {
     flex: 0 1 33.33%;
     margin-bottom: 24px;
@@ -133,6 +155,7 @@
     align-items: stretch;
     gap: 0;
   }
+
   .columns.columns29 .columns-img-col {
     flex: none;
     margin-bottom: 32px;
@@ -145,8 +168,202 @@
     flex-direction: unset;
     gap: 24px;
   }
+
   .columns > div > div {
     flex: 1;
     order: unset;
   }
+}
+
+/* merged .columns.columns35 */
+.columns.columns35 > div {
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.columns.columns35 > div > div {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  border-radius: 24px;
+  padding: 32px 36px 26px;
+  box-sizing: border-box;
+  background: #fff;
+  min-width: 0;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.columns.columns35 > div > div:first-child {
+  background: #F3F6FB;
+}
+
+.columns.columns35 > div > div:last-child {
+  background: #EAEAEC;
+}
+
+/* Headings */
+.columns.columns35 h2 {
+  font-size: 2rem;
+  color: #102760;
+  font-weight: 700;
+  margin: 0 0 18px;
+  font-family: var(--heading-font-family);
+  line-height: 1.1;
+}
+
+/* Paragraphs */
+.columns.columns35 p {
+  color: #54565A;
+  font-size: 1.125rem;
+  margin: 0 0 17px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+/* Button Containers: center buttons, add spacing */
+.columns.columns35 .button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 34px;
+  margin-top: 0;
+}
+
+.columns.columns35 .button-container:last-of-type {
+  margin-bottom: 0;
+}
+
+/* Buttons: fit to text, centered, wider padding, uniform width */
+.columns.columns35 .button-container .button {
+  min-width: 270px;
+  max-width: 370px;
+  width: 100%;
+  padding: 12px 38px;
+  border-radius: 999px;
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 auto;
+  background: #102760;
+  color: #fff;
+  border: none;
+  letter-spacing: 0;
+  box-shadow: none;
+  white-space: nowrap;
+  line-height: 1.2;
+  display: block;
+}
+
+.columns.columns35 .button-container + .button-container .button {
+  background: #fff;
+  color: #102760;
+  border: 2px solid #102760;
+}
+
+.columns.columns35 .button-container + .button-container .button:hover,
+.columns.columns35 .button-container + .button-container .button:focus {
+  background: #F3F6FB;
+}
+
+.columns.columns35 .button-container:first-of-type .button:hover,
+.columns.columns35 .button-container:first-of-type .button:focus {
+  background: #1a2d68;
+}
+
+/* "Search" input-mimic styles */
+.columns.columns35 > div > div:last-child p:nth-of-type(1) {
+  background: #fff;
+  border: 1px solid #102760;
+  border-radius: 7px;
+  padding: 8px 38px 8px 14px;
+  font-size: 1rem;
+  color: #54565A;
+  margin-bottom: 18px;
+  position: relative;
+  min-height: 32px;
+  line-height: 1.15;
+  display: flex;
+  align-items: center;
+  width: 210px;
+  box-sizing: border-box;
+}
+
+/* Search icon (SVG) position and size */
+.columns.columns35 > div > div:last-child p:nth-of-type(1)::after {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background: url("data:image/svg+xml,%3Csvg fill='none' stroke='%23102760' stroke-width='2' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E") no-repeat center/contain;
+  position: absolute;
+  top: 50%;
+  right: 13px;
+  transform: translateY(-50%);
+  pointer-events: none;
+  content: "";
+}
+
+/* Remove bullets for popular searches list and style links */
+.columns.columns35 > div > div:last-child ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.columns.columns35 > div > div:last-child ul li {
+  margin-bottom: 8px;
+}
+
+.columns.columns35 > div > div:last-child ul li a:hover {
+  color: #1a2d68;
+  text-decoration-thickness: 2px;
+}
+
+/* "Popular searches:" label styling */
+.columns.columns35 > div > div:last-child p:nth-of-type(5) {
+  color: #54565A;
+  font-size: 1.03rem;
+  font-weight: 400;
+  margin-bottom: 9px;
+  margin-top: 19px;
+}
+
+/* "Recent searches" styling */
+.columns.columns35 > div > div:last-child h4 {
+  color: #102760;
+  font-size: 1.03rem;
+  font-weight: 500;
+  margin: 0 0 5px;
+  line-height: 1.2;
+}
+
+/* "There are no recent searches" text */
+.columns.columns35 > div > div:last-child p:nth-of-type(4) {
+  color: #54565A;
+  font-size: 1.03rem;
+  margin-bottom: 10px;
+}
+
+/* Remove excessive space after search box */
+.columns.columns35 > div > div:last-child p:nth-of-type(2) {
+  margin-bottom: 14px;
+}
+
+/* Responsive: Stack on mobile, adjust padding and gap */
+@media (width <= 900px) {
+  .columns.columns35 > div {
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .columns.columns35 > div > div {
+    padding: 16px 6px 12px;
+  }
+}
+
+/* Remove bottom margin from last element in each card */
+.columns.columns35 > div > div > *:last-child {
+  margin-bottom: 0;
 }
